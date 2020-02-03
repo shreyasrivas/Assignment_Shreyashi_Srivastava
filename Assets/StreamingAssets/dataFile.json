@@ -1,0 +1,14 @@
+{
+    "player": {
+       "food": [
+           {
+               "color": "red",
+               "score": "10"
+           },
+           {
+            "color": "blue",
+            "score": "15"
+           }
+       ]
+    }
+}   
